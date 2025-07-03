@@ -265,34 +265,19 @@ body {
   }
 }
 
-/* Color schemes */
-/* Update green scheme colors to match GitHub */
+/* Color schemes - CORRECTED */
 .blue-scheme .step-box {
-  background-color: #e0f2fe;
-  border-color: #0891b2;
+  background-color: #dbeafe;
+  border-color: #3b82f6;
 }
 .blue-scheme .step-icon {
-  color: #0891b2;
+  color: #3b82f6;
 }
 .blue-scheme .step-role {
-  color: #0891b2;
+  color: #3b82f6;
 }
 .blue-scheme .card-title {
-  color: #0891b2;
-}
-
-.green-scheme .step-box {
-  background-color: #dcfce7;
-  border-color: #16a34a;
-}
-.green-scheme .step-icon {
-  color: #16a34a;
-}
-.green-scheme .step-role {
-  color: #16a34a;
-}
-.green-scheme .card-title {
-  color: #16a34a;
+  color: #3b82f6;
 }
 
 .yellow-scheme .step-box {
@@ -307,6 +292,20 @@ body {
 }
 .yellow-scheme .card-title {
   color: #f59e0b;
+}
+
+.green-scheme .step-box {
+  background-color: #dcfce7;
+  border-color: #16a34a;
+}
+.green-scheme .step-icon {
+  color: #16a34a;
+}
+.green-scheme .step-role {
+  color: #16a34a;
+}
+.green-scheme .card-title {
+  color: #16a34a;
 }
 
 .purple-scheme .step-box {
